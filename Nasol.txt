@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="border: 8px solid White;">Hi Ako si Jemuel Rabino Nasol</h1>
+<p style="border: 8px solid Yellow;">Ako ay isang Estudyante na maraming pangarap sa  buhay
+<br>I'm 17 Years old i live in 91 Mt.Makiling St. Sampaguita Hills UPS IV Barangay Marcelo Green
+<br>Playing online games and preparing food for my siblings is one of the things I always do
+<br>before the pandemic, I serve as president of the classroom for 3 school years
+<br>My dream was to be a successful CEO of my own company
+<br>.My mother is an OFW My Father works in the Bank as a Bank messenger
+<br>I graduated from Marcelo Green High School
+<br>.My favorites food are Sinigang na Baboy, Adobong Baboy and Bulalo
+<br>I like watching movies and series on Netflix</p>
+<p>&nbsp;<p/>
+<p>&nbsp;<p/>
+<h1 style="background-color:Red;">Naniniwala sa kasabihang "Kung pwede mo gawin bukas bakit mo gagawin ngayon"</h1>
+<img class="img" src="images/nasol.png" alt="GEGEZ" style="width:200px;height:200px;">
+
+<table class="about">
+  <tr>
+    <td colspan="3"> About Me </td>
+  </tr>
+  <tr>
+    <th>Alfreds Futterkiste</th>
+    <th>Maria Anders</th>
+    <th>Germany</th>
+  </tr>
+  <tr>
+    <th>Centro comercial Moctezuma</th>
+    <th>Francisco Chang</th>
+    <th>Mexico</th>
+  </tr>
+</table>
+
+<table class="hobbies">
+  <tr>
+    <td colspan="3"> Hobbies </td>
+  </tr>
+  <tr>
+    <th>Alfreds Futterkiste</th>
+    <th>Maria Anders</th>
+    <th>Germany</th>
+  </tr>
+  <tr>
+    <th>Centro comercial Moctezuma</th>
+    <th>Francisco Chang</th>
+    <th>Mexico</th>
+  </tr>
+</table>
+
+<audio controls autoplay>
+  <source src="contents\music.mp3" type="audio/mp3">
+  <source src="contents\music.mpeg" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<style>
+    h1, p {
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 100%;
+    }
+
+   audio {
+        position: absolute;
+        left: 37%;
+        top: 270px;
+    }
+   .img {
+        position: absolute;
+        left: 42%;
+        top: 380px;
+    }
+   .about {
+       margin-left: 4%;
+       margin-right: 50%;
+       margin-top: 5%;
+    }
+
+   .hobbies {
+        position: absolute;
+        left: 60%;
+        top: 417px;
+    }
+
+    body {
+      background-image: url('images/background.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+    table, th, td { 
+        font-family: 'Montserrat', sans-serif;
+        font-size: 90%;
+        border: 1px solid rgb(171, 67, 202); 
+        border-collapse: collapse;
+    } 
+    th, td { 
+        padding: 10px; 
+        text-align: center;
+    } 
+    td { 
+        background-color: rgb(201, 108, 201);
+
+</style>
+</body>
+</html>
